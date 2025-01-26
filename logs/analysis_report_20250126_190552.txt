@@ -1,0 +1,53 @@
+Starting DU student survey analysis...
+
+Loading and cleaning data...
+Data loaded successfully from: /media/ayon1901/SERVER/DU data/data/raw/DU_Akib.csv
+Starting data cleaning process...
+Normalizing column names...
+Starting column name normalization...
+Column normalization completed!
+Data saved to: data/processed/normalized_student_survey.csv
+Transforming values...
+Starting value transformation...
+Processing scale for economic_freedom_view
+Detected scale type: agreement
+Processing scale for cultural_festival_importance
+Detected scale type: numeric
+Processing scale for justice_public_events_opinion
+Detected scale type: numeric
+Processing scale for july_revolution_leadership_satisfaction
+Detected scale type: scaled_numeric
+Warning: NaN values in leadership_satisfaction_score
+Unique values in july_revolution_leadership_satisfaction after cleaning: [30. 40. 20. 10. 50. nan]
+Processing scale for tradition_based_decisions
+Detected scale type: numeric
+Value transformation completed!
+Data saved to: data/processed/cleaned_student_survey.csv
+Data cleaning completed successfully!
+
+Running political spectrum analysis...
+Running complex political spectrum analysis...
+Performing cluster analysis...
+Performing dimensionality analysis...
+Running dimension analysis...
+Warning: No features available for PCA analysis
+Performing statistical analysis...
+Running advanced statistical analysis...
+Warning: Could not create quantiles for traditional_over_progressive: Bin labels must be one fewer than the number of bin edges
+Warning: Could not create quantiles for stability_over_justice: Bin labels must be one fewer than the number of bin edges
+Warning: Income analysis failed: Bin labels must be one fewer than the number of bin edges
+Statistical analysis completed!
+Figures saved in: /media/ayon1901/SERVER/DU data/scripts/spectrum/figures/stats
+Reports saved in: /media/ayon1901/SERVER/DU data/scripts/spectrum/reports
+Political spectrum analysis completed!
+Figures saved in: /media/ayon1901/SERVER/DU data/scripts/spectrum/figures
+Reports saved in: /media/ayon1901/SERVER/DU data/scripts/spectrum/reports
+
+Running perspective analysis...
+Running perspective analysis...
+Perspective analysis completed!
+Figures saved in: /media/ayon1901/SERVER/DU data/scripts/perspectives/figures
+Reports saved in: /media/ayon1901/SERVER/DU data/scripts/perspectives/reports
+
+Analysis completed successfully!
+Analysis report saved to: /media/ayon1901/SERVER/DU data/logs/analysis_report_20250126_190552.txt

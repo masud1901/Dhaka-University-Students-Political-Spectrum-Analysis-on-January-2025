@@ -1,0 +1,14 @@
+Political Dimensionality Analysis Report
+====================================
+
+Principal Component Analysis:
+-------------------------
+Explained Variance by Component:
+PC1: 0.493
+PC2: 0.297
+PC3: 0.210
+PC4: 0.000
+
+Factor Analysis:
+---------------
+See factor loadings plot for detailed relationships

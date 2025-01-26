@@ -1,0 +1,93 @@
+Political Analysis Summary
+========================
+
+Binary Choice Preferences by Program:
+--------------------------------
+
+Economic Growth vs Environment:
+honours: 33.9% chose Growth-focused (n=330)
+masters: 34.3% chose Growth-focused (n=70)
+
+Individual Freedom vs Social Harmony:
+honours: 33.6% chose Individualistic (n=330)
+masters: 34.3% chose Individualistic (n=70)
+
+Traditional vs Progressive Values:
+honours: 44.8% chose Traditional (n=330)
+masters: 52.9% chose Traditional (n=70)
+
+Central vs Local Authority:
+honours: 42.4% chose Centralist (n=330)
+masters: 41.4% chose Centralist (n=70)
+
+Market Freedom vs Regulation:
+honours: 41.8% chose Free Market (n=330)
+masters: 32.9% chose Free Market (n=70)
+
+Stability vs Justice:
+honours: 29.7% chose Stability-focused (n=330)
+masters: 17.1% chose Stability-focused (n=70)
+
+Political Dimension Scores:
+------------------------
+Economic: 37.1
+Social: 30.6
+Cultural: 46.2
+Governance: 42.2
+
+Ideological Clusters:
+-------------------
+
+Cluster 0:
+  Economic Growth vs Environment: Growth-focused (strength: 0.78)
+  Individual Freedom vs Social Harmony: Individualistic (strength: 0.29)
+  Traditional vs Progressive Values: Progressive (strength: 0.95)
+  Central vs Local Authority: Localist (strength: 0.26)
+  Market Freedom vs Regulation: Free Market (strength: 0.10)
+  Stability vs Justice: Stability-focused (strength: 0.26)
+
+Cluster 1:
+  Economic Growth vs Environment: Environment-focused (strength: 0.84)
+  Individual Freedom vs Social Harmony: Collectivist (strength: 0.92)
+  Traditional vs Progressive Values: Traditional (strength: 0.03)
+  Central vs Local Authority: Localist (strength: 1.00)
+  Market Freedom vs Regulation: Regulatory (strength: 0.41)
+  Stability vs Justice: Justice-focused (strength: 0.92)
+
+Cluster 2:
+  Economic Growth vs Environment: Environment-focused (strength: 0.00)
+  Individual Freedom vs Social Harmony: Individualistic (strength: 0.74)
+  Traditional vs Progressive Values: Traditional (strength: 0.46)
+  Central vs Local Authority: Centralist (strength: 0.15)
+  Market Freedom vs Regulation: Free Market (strength: 0.41)
+  Stability vs Justice: Stability-focused (strength: 0.08)
+
+Cluster 3:
+  Economic Growth vs Environment: Environment-focused (strength: 0.59)
+  Individual Freedom vs Social Harmony: Collectivist (strength: 0.71)
+  Traditional vs Progressive Values: Progressive (strength: 0.01)
+  Central vs Local Authority: Centralist (strength: 1.00)
+  Market Freedom vs Regulation: Regulatory (strength: 0.57)
+  Stability vs Justice: Justice-focused (strength: 0.67)
+
+Program Differences:
+------------------
+Economic Growth vs Environment: not significant difference (p=0.956)
+Individual Freedom vs Social Harmony: not significant difference (p=0.917)
+Traditional vs Progressive Values: not significant difference (p=0.223)
+Central vs Local Authority: not significant difference (p=0.879)
+Market Freedom vs Regulation: not significant difference (p=0.166)
+Stability vs Justice: significant difference (p=0.033)
+
+Political Change Views:
+-------------------
+Change Needed: 100.0%
+
+Change Views Relationships:
+-------------------
+economic_growth_over_environment: nan
+individual_freedom_over_harmony: nan
+traditional_over_progressive: nan
+central_over_local: nan
+market_over_regulation: nan
+stability_over_justice: nan

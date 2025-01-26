@@ -1,0 +1,7 @@
+Advanced Statistical Analysis Report
+================================
+
+
+Markov Chain Analysis:
+-------------------
+See transition matrix plot for details.

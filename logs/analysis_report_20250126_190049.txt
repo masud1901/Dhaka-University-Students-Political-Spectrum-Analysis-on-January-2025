@@ -1,0 +1,43 @@
+Starting DU student survey analysis...
+
+Loading and cleaning data...
+Data loaded successfully from: /media/ayon1901/SERVER/DU data/data/raw/DU_Akib.csv
+Starting data cleaning process...
+Normalizing column names...
+Starting column name normalization...
+Column normalization completed!
+Data saved to: data/processed/normalized_student_survey.csv
+Transforming values...
+Starting value transformation...
+Processing scale for economic_freedom_view
+Detected scale type: agreement
+Processing scale for cultural_festival_importance
+Detected scale type: numeric
+Processing scale for justice_public_events_opinion
+Detected scale type: numeric
+Processing scale for july_revolution_leadership_satisfaction
+Detected scale type: scaled_numeric
+Warning: NaN values in leadership_satisfaction_score
+Unique values in july_revolution_leadership_satisfaction after cleaning: [30. 40. 20. 10. 50. nan]
+Processing scale for tradition_based_decisions
+Detected scale type: numeric
+Value transformation completed!
+Data saved to: data/processed/cleaned_student_survey.csv
+Data cleaning completed successfully!
+
+Running reform analysis...
+Running reform preferences analysis...
+Warning: Error in income analysis: Bin labels must be one fewer than the number of bin edges
+Reform analysis completed!
+Figures saved in: /media/ayon1901/SERVER/DU data/scripts/reforms/figures
+Reports saved in: /media/ayon1901/SERVER/DU data/scripts/reforms/reports
+
+Running value analysis...
+Running value analysis...
+Warning: Error in income analysis: Bin labels must be one fewer than the number of bin edges
+Value analysis completed!
+Figures saved in: /media/ayon1901/SERVER/DU data/scripts/values/figures
+Reports saved in: /media/ayon1901/SERVER/DU data/scripts/values/reports
+
+Analysis completed successfully!
+Analysis report saved to: /media/ayon1901/SERVER/DU data/logs/analysis_report_20250126_190049.txt

@@ -1,0 +1,51 @@
+Value Analysis Summary
+===================
+
+
+Political Value Patterns:
+----------------------
+
+Value Scores by Political Change View:
+
+No Change Needed:
+  1.0: 3.04
+
+No Change Needed:
+  1.0: 1.80
+
+No Change Needed:
+  1.0: 3.01
+
+No Change Needed:
+  1.0: 3.35
+
+Value Importance Scores:
+---------------------
+{'label': 'Justice & Equity', 'dimension': 'political', 'description': 'Support for justice-oriented actions'}: 3.70
+{'label': 'Cultural Values', 'dimension': 'social', 'description': 'Importance of cultural traditions'}: 3.58
+{'label': 'Traditional Values', 'dimension': 'social', 'description': 'Reliance on traditional wisdom'}: 3.23
+{'label': 'Economic Freedom', 'dimension': 'economic', 'description': 'Views on market freedom vs regulation'}: 3.11
+{'label': 'Individualism', 'dimension': 'social', 'description': 'Individual vs collective orientation'}: 2.81
+{'label': 'Leadership', 'dimension': 'political', 'description': 'Satisfaction with current leadership'}: 2.09
+
+Key Value Correlations:
+--------------------
+See correlation heatmap for detailed relationships.
+
+Key Relationship Analysis:
+------------------------
+
+Economic Views vs Market Regulation:
+Correlation: 0.14
+Mean X: 3.11
+Mean Y: 0.40
+
+Traditional Values vs Cultural Importance:
+Correlation: 0.28
+Mean X: 3.23
+Mean Y: 3.58
+
+Leadership Satisfaction vs Reform Interest:
+Correlation: -0.04
+Mean X: 2.09
+Mean Y: 2.77

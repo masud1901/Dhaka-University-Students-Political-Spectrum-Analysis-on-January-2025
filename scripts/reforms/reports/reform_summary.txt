@@ -1,0 +1,46 @@
+Reform Preferences Analysis Summary
+================================
+
+Most Popular Reforms:
+------------------
+Quality Education: 70.5%
+Job Creation: 66.2%
+Affordable Healthcare: 47.8%
+Better Infrastructure: 31.0%
+Tech Innovation: 30.0%
+Smart Agriculture: 21.8%
+Climate Action: 9.8%
+
+Reform Categories:
+-----------------
+Economic: 37.2%
+Environmental: 9.8%
+Social: 59.1%
+
+Popular Reform Combinations:
+-------------------------
+Quality Education + Affordable Healthcare + Job Creation: 68 students
+Quality Education + Better Infrastructure + Job Creation: 39 students
+Quality Education + Tech Innovation + Job Creation: 32 students
+Quality Education: 27 students
+Job Creation: 26 students
+
+Program Differences:
+------------------
+Quality Education: not significant difference (p=0.499)
+Affordable Healthcare: not significant difference (p=0.880)
+Better Infrastructure: not significant difference (p=0.630)
+Smart Agriculture: not significant difference (p=0.943)
+Tech Innovation: not significant difference (p=0.390)
+Climate Action: not significant difference (p=0.603)
+Job Creation: not significant difference (p=0.135)
+
+Reform Preferences vs Political Change Views:
+----------------------------------------
+Quality Education: nan correlation with change views
+Affordable Healthcare: nan correlation with change views
+Better Infrastructure: nan correlation with change views
+Smart Agriculture: nan correlation with change views
+Tech Innovation: nan correlation with change views
+Climate Action: nan correlation with change views
+Job Creation: nan correlation with change views

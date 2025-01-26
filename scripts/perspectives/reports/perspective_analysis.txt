@@ -1,0 +1,20 @@
+Student Perspective Analysis Report
+================================
+
+Economic Perspectives:
+-------------------
+Mean Economic Freedom Score: 3.11
+Pro-Market Percentage: 40.2%
+Growth over Environment: 34.0%
+
+Social Perspectives:
+------------------
+Cultural Importance: 3.58
+Tradition Reliance: 3.23
+Individual Freedom Preference: 33.8%
+
+Governance Perspectives:
+---------------------
+Leadership Satisfaction: 2.09
+Leadership Approval Rate: 12.5%
+Centralization Preference: 42.2%

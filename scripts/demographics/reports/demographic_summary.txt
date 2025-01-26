@@ -1,0 +1,99 @@
+Demographic Analysis Summary
+=========================
+
+Program Distribution:
+-----------------
+honours: 330 students (82.5%)
+masters: 70 students (17.5%)
+
+Session Distribution:
+------------------
+2016-17: 7 students (1.8%)
+2017-18: 29 students (7.2%)
+2018-19: 19 students (4.8%)
+2019-20: 25 students (6.2%)
+2020-21: 91 students (22.8%)
+2021-22: 80 students (20.0%)
+2022-23: 84 students (21.0%)
+2023-24: 60 students (15.0%)
+2024-25: 5 students (1.2%)
+
+Program-Session Distribution:
+--------------------------
+See heatmap visualization for detailed breakdown.
+
+Reform Interests by Program:
+-------------------------
+See bar plot visualization for detailed breakdown.
+
+Individualism Analysis:
+------------------
+honours:
+  mean: 2.78
+  std: 1.31
+  count: 330
+masters:
+  mean: 2.94
+  std: 1.39
+  count: 70
+
+Future Aspirations:
+------------------
+government serviceholder: 94 students (23.5%)
+study abroad: 93 students (23.2%)
+i just want to be happy with my family: 84 students (21.0%)
+career in my country: 82 students (20.5%)
+want to explore business: 47 students (11.8%)
+
+Tradition Reliance:
+------------------
+
+By Program:
+  honours: 3.23
+  masters: 3.21
+
+By Session:
+  2016-17: 3.14
+  2017-18: 3.34
+  2018-19: 3.37
+  2019-20: 3.36
+  2020-21: 3.15
+  2021-22: 3.02
+  2022-23: 3.14
+  2023-24: 3.53
+  2024-25: 4.00
+
+Value Correlations:
+------------------
+individualism_score - tradition_reliance_score: -0.10
+individualism_score - leadership_satisfaction_score: -0.06
+individualism_score - protest_support_score: 0.00
+cultural_importance_score - individualism_score: -0.01
+cultural_importance_score - tradition_reliance_score: 0.28
+cultural_importance_score - leadership_satisfaction_score: -0.00
+cultural_importance_score - protest_support_score: 0.33
+leadership_satisfaction_score - tradition_reliance_score: 0.06
+leadership_satisfaction_score - protest_support_score: 0.04
+protest_support_score - tradition_reliance_score: 0.25
+
+Income Distribution:
+------------------
+count: 198.0
+mean: 7061.818181818182
+std: 16666.16712464725
+min: 30.0
+25%: 30.0
+50%: 3160.0
+75%: 3160.0
+max: 61100.0
+
+Income Distribution by Program:
+------------------
+honours:
+  mean: 7603.27
+  median: 3160.0
+  std: 17379.81
+masters:
+  mean: 4854.36
+  median: 3160.0
+  std: 13334.9

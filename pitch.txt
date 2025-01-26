@@ -1,0 +1,44 @@
+# Demographics
+- Program distribution (Honours vs Masters)
+- Session-wise distribution
+- Basic summary statistics
+
+# Binary Choice Analysis
+- Economic growth vs Environment preferences
+- Individual freedom vs Social harmony distribution
+- Traditional vs Progressive values split
+- Market freedom vs Regulation preferences
+
+
+# Reform Choices Analysis
+- Most popular reform choices
+- Reform preference patterns
+- Number of reforms selected per student
+- Reform preferences by program type
+
+# Value Analysis
+- Most important values
+- Value distribution by program type
+- Value correlation with economic growth
+- Value correlation with individual freedom
+- Value correlation with social harmony
+- Value correlation with market freedom
+- Value correlation with regulation preferences
+
+# Relationship Studies
+- Economic views vs Market regulation preferences
+- Traditional values vs Cultural importance scores
+- Leadership satisfaction vs Reform preferences
+
+# Complex Political Spectrum Mapping
+- Create composite political scores
+- Map students on multiple axes (economic, social, cultural)
+- Cluster analysis to identify political groupings
+- complex unsupervised clustering
+
+# Advanced Statistical Analysis
+- Factor analysis of political views
+- Principal Component Analysis (PCA)
+- Regression analysis for predicting preferences
+- Markov chain analysis
+
